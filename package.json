@@ -13,7 +13,7 @@
   "author": "Amit Mishra",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "bootstrap-sass": "^3.3.7",
     "connect-redis": "^3.3.2",
     "ejs": "^2.5.7",
